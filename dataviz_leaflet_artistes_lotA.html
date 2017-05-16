@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cartographie des lieux de naissance des artistes du lot A</title>
+		<meta charset="utf-8"/>
+		<!-- lien vers le feuille css de leaflet : -->
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"
+	integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ=="
+	crossorigin=""/>
+		<!-- Paramétrage du format de la carte : hauteur de 800 pixels, largeur de 1300 pixels. -->
+		<style>
+			#mapid {
+			height: 800px;
+			width:1300px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<!-- Div contenant la carte : -->
+		<div id="mapid"></div>
+
+		<!-- Appel à la librairie jquery.  -->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<!-- Appel à la librairie leaflet qui permet d'utiliser les fonctions javascript permettant de créer la carte.-->
+		<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"
+	integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg=="
+	crossorigin=""></script>
+
+		<!-- Création de la carte : -->
+		<script type="text/javascript">
+		// je définis une variable (mymap) qui correspond à ma carte. Je la centre grâce aux coordonnées GPS etlui attribue un niveau de zoom de 3.
+		var mymap = L.map('mapid').setView([48.85661400000001, 2.3522219000000177], 3);
+		// Je crée le fonds de carte
+		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+		    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(mymap);
+		// je définis une variable (url) qui correspond à l'emplacement où se trouve mon fichier JSON qui stocke les données que je veux faire figurer sur la carte.
+		var url =  "table_artistes.json";
+		// je dit à JQuery d'aller chercher mon fichier JSON et de lui appliquer une fonction permettant de placer des données sur une carte.
+		$.getJSON(url, function (data_places)
+		// j'utilise une boucle pour que chaque entrée de mon fichier JSON (qui correspond à chaque ligne du tableau excel converti au format JSON) soit traitées de la manière qui suit :
+		{
+			// pour chaque artiste dans la seul entrée de niveau 1 du fichier JSON appelée "rows":
+	for (artiste in data_places["rows"]) {
+console.log(artiste);
+		// je définis une variable (nom-artiste) qui prendra la valeur "title" du ficheir JSON. Pour cela, j'indique le chemin vers la valeur désirée
+		var nom_artiste = data_places["rows"][artiste]["title"];
+		// je définis une variable (lat) qui prendra la valeur de l'entrée "latitude" du fichier JSON
+		var lat = data_places["rows"][artiste]["latitude"];
+		// je définis une variable (long) qui prendra la valeur de l'entrée "longitude" du fichier JSON
+		var long = data_places["rows"][artiste]["longitude"];
+		// je définis une variable (circle) qui correspond au cercle que je veux placer sur la carte et pour lequel je définis ses coordonnées GPS
+		var circle = L.circle([latitude, longitude], {
+			// je définis aussi la couleur du cercle
+			color:'#91283B',
+			// la couleur du remplissage du cercle
+			fillColor: '#91283B',
+			// l'opacité du remplissage du cercle
+    	fillOpacity: 0.5,
+			// le rayon du cercle
+    	radius: 800,
+			// j'ajoute tout ceci à la carte
+		}).addTo(mymap);
+		// à chaque cercle, j'associe une petite fenêtre popup qui contient la valeur contenue dans la variable nom_artiste et qui correspond, comme son nom l'indique, au nom de l'artiste
+		circle.bindPopup("<em>"+nom_artiste+"</em>");
+	}
+});
+		</script>
+	</body>
+</html>

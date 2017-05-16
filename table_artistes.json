@@ -1,0 +1,2254 @@
+{
+  "rows" : [
+    {
+      "title" : "Adlen, Michel (1898-1980)",
+      "latitude" : 50.747233,
+      "longitude" : 25.325382999999988
+    },
+    {
+      "title" : "Andreenko, Mikhail (1894-1982)",
+      "latitude" : 46.635417,
+      "longitude" : 32.61686699999996
+    },
+    {
+      "title" : "Arp, Jean (1886-1966)",
+      "latitude" : 48.57340529999999,
+      "longitude" : 7.752111300000024
+    },
+    {
+      "title" : "D'Aumont",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Wilson, Bassett (1888-1972)",
+      "latitude" : 55.378051,
+      "longitude" : -3.43597299999999
+    },
+    {
+      "title" : "Benn (1905-1989)",
+      "latitude" : 53.13248859999999,
+      "longitude" : 23.168840300000056
+    },
+    {
+      "title" : "Béthencourt, Robert",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Blanchard, Maria (1881-1932)",
+      "latitude" : 43.46230569999999,
+      "longitude" : -3.8099803000000065
+    },
+    {
+      "title" : "Borès, Francisco (1898-1972)",
+      "latitude" : 40.4167754,
+      "longitude" : -3.7037901999999576
+    },
+    {
+      "title" : "Boutet, J.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Brener",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Breton, Vincent (1920-)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Cahn, Marcelle (1895-1981)",
+      "latitude" : 48.57340529999999,
+      "longitude" : 7.752111300000024
+    },
+    {
+      "title" : "Cavailles",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Charchoune, Serge (1888-1975)",
+      "latitude" : 53.6234055,
+      "longitude" : 52.433221499999945
+    },
+    {
+      "title" : "Clausade, Pierre de (1910-1975)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Cluseau",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Coutaud, Lucien (1904-1977)",
+      "latitude" : 43.882497,
+      "longitude" : 4.561617000000069
+    },
+    {
+      "title" : "Decler, L.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Dequet, Alain (1920-1980)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Dewasne, Jean (1921-1999)",
+      "latitude" : 50.62924999999999,
+      "longitude" : 3.057256000000052
+    },
+    {
+      "title" : "Dries, Jean (1905-1973)",
+      "latitude" : 48.773605,
+      "longitude" : 5.158237999999983
+    },
+    {
+      "title" : "Duchamp, Suzanne (1889-1963)",
+      "latitude" : 49.50394,
+      "longitude" : 1.2998360000000275
+    },
+    {
+      "title" : "Espinouze, Henri (1915-1982)",
+      "latitude" : 42.6886591,
+      "longitude" : 2.8948331999999937
+    },
+    {
+      "title" : "Floch, Joseph (1894-1977)",
+      "latitude" : 48.20823499999999,
+      "longitude" : 16.373813799999994
+    },
+    {
+      "title" : "Gargallo, Pablo (1881-1934)",
+      "latitude" : 41.1230647,
+      "longitude" : 0.13955320000002303
+    },
+    {
+      "title" : "Gimond, Marcel (1894-1961)",
+      "latitude" : 45.067915,
+      "longitude" : 4.832136999999989
+    },
+    {
+      "title" : "Grau Sala, Emile (1911-1975)",
+      "latitude" : 41.38506389999999,
+      "longitude" : 2.1734034999999494
+    },
+    {
+      "title" : "Hambourg, André (1909-1999)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Ipoustéguy (1920-2006)",
+      "latitude" : 49.384119,
+      "longitude" : 5.184923000000026
+    },
+    {
+      "title" : "Kiki de Montparnasse (1901-1953)",
+      "latitude" : 47.86045499999999,
+      "longitude" : 4.573713999999995
+    },
+    {
+      "title" : "Kowalska, Chana (1907-1941)",
+      "latitude" : 52.6483303,
+      "longitude" : 19.067735699999957
+    },
+    {
+      "title" : "Laubeuf-Michaelis, Lily (1911-1987)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Léger, Fernand (1881-1955)",
+      "latitude" : 48.744001,
+      "longitude" : -0.016566000000011627
+    },
+    {
+      "title" : "Levy, André",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lévy, Léopold (1882-1966)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Mac Avoy, Edouard-Georges (1905-1991)",
+      "latitude" : 44.837789,
+      "longitude" : -0.5791799999999512
+    },
+    {
+      "title" : "Pieyre de Mandiargues, André (1909-1991)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Etienne-Martin (1913-1995)",
+      "latitude" : 44.751895,
+      "longitude" : 4.822374999999965
+    },
+    {
+      "title" : "Matisse, Jean Gérard (1899-1976)",
+      "latitude" : 43.604652,
+      "longitude" : 1.4442090000000007
+    },
+    {
+      "title" : "Milich, Adolphe (1884-1964)",
+      "latitude" : 50.61707209999999,
+      "longitude" : 23.699374000000034
+    },
+    {
+      "title" : "Mourlot, Maurice (1906-1983)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Müller, Robert (1920-2003)",
+      "latitude" : 47.3768866,
+      "longitude" : 8.541694000000007
+    },
+    {
+      "title" : "Penrose, Roland (1900-1984)",
+      "latitude" : 51.5073509,
+      "longitude" : -0.12775829999998223
+    },
+    {
+      "title" : "Poliakoff, Serge (1900-1969)",
+      "latitude" : 55.755826,
+      "longitude" : 37.6173
+    },
+    {
+      "title" : "Réquichot, Bernard (1929-1961)",
+      "latitude" : 47.888316,
+      "longitude" : -0.23144800000000032
+    },
+    {
+      "title" : "Roederer-Rivière, Claude",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rotchild",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rousseau, M.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Saulnier, Adam (1915-1991)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Smol, Bernard (1897-1969)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Tal-Coat (1905-1985)",
+      "latitude" : 47.795818,
+      "longitude" : -3.5849100000000362
+    },
+    {
+      "title" : "Utrillo, Maurice (1883-1955)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Venard, Claude (1913-1999)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Vlaminck, Maurice de (1876-1958)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Zak, Eugène (1884-1926)",
+      "latitude" : 52.6577648,
+      "longitude" : 17.95569249999994
+    },
+    {
+      "title" : "Aberdam, Alfred (1894-1963)",
+      "latitude" : 49.83968300000001,
+      "longitude" : 24.029717000000005
+    },
+    {
+      "title" : "Aillaud, Gilles (1928-2005)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Apollinaire, Guillaume (1880-1918)",
+      "latitude" : 41.90278349999999,
+      "longitude" : 12.496365500000024
+    },
+    {
+      "title" : "Aublet, Félix (1903-1978)",
+      "latitude" : 36.8064948,
+      "longitude" : 10.181531599999971
+    },
+    {
+      "title" : "Baruet",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Beckmann, Max (1884-1950)",
+      "latitude" : 51.3396955,
+      "longitude" : 12.373074699999961
+    },
+    {
+      "title" : "Berroeta, Pierre de (1914-2004)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Blanc, M.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Bonnard, Pierre (1867-1947)",
+      "latitude" : 48.789776,
+      "longitude" : 2.2871810000000323
+    },
+    {
+      "title" : "Bourdelle, Emile-Antoine (1861-1929)",
+      "latitude" : 44.02212519999999,
+      "longitude" : 1.3529598999999735
+    },
+    {
+      "title" : "Brandel, Pierre (1912-2003)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Bret, Gertrude",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Buffet, Bernard (1928-1999)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Canovas, Blas (1903-?)",
+      "latitude" : 40.46366700000001,
+      "longitude" : -3.7492200000000366
+    },
+    {
+      "title" : "Chagall, Ida (1916-1994)",
+      "latitude" : 55.1848061,
+      "longitude" : 30.201622000000043
+    },
+    {
+      "title" : "Cheyssial, Georges (1907-1997)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Clemenfat",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Corneille",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Csaky, M. Joseph (1888-1971)",
+      "latitude" : 46.2530102,
+      "longitude" : 20.141425300000037
+    },
+    {
+      "title" : "Delaunay, Simone",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Despiau, Charles (1874-1946)",
+      "latitude" : 43.89348499999999,
+      "longitude" : -0.49978199999998196
+    },
+    {
+      "title" : "Dominguez, Oscar (1906-1957)",
+      "latitude" : 28.4874009,
+      "longitude" : -16.315906100000007
+    },
+    {
+      "title" : "Dubreuil",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Eluard, Paul (1895-1952)",
+      "latitude" : 48.936181,
+      "longitude" : 2.3574429999999893
+    },
+    {
+      "title" : "Even, Jean (1910-1986)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Friesz, Othon (1879-1949)",
+      "latitude" : 49.49437,
+      "longitude" : 0.10792900000001282
+    },
+    {
+      "title" : "Giacometti, Alberto (1901-1966)",
+      "latitude" : 44.7224728,
+      "longitude" : 8.119081000000051
+    },
+    {
+      "title" : "González, Julio (1876-1942)",
+      "latitude" : 41.38506389999999,
+      "longitude" : 2.1734034999999494
+    },
+    {
+      "title" : "Guillaume, Marie-Thérèse",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Hérold, Jacques (1910-1987)",
+      "latitude" : 45.943161,
+      "longitude" : 24.966760000000022
+    },
+    {
+      "title" : "Jansem, Jean (1920-2013)",
+      "latitude" : 40.3962999,
+      "longitude" : 29.413900000000012
+    },
+    {
+      "title" : "Klein, Fred (1898-1990)",
+      "latitude" : -7.134070200000001,
+      "longitude" : 107.62153209999997
+    },
+    {
+      "title" : "Lanskoy, André (1902-1976)",
+      "latitude" : 55.755826,
+      "longitude" : 37.6173
+    },
+    {
+      "title" : "Le Breton, Constant (1895-1985)",
+      "latitude" : 47.953765,
+      "longitude" : 2.85001299999999
+    },
+    {
+      "title" : "Leroy, C.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Levy, Jane",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lipchitz, Jacques (1891-1973)",
+      "latitude" : 54.0049069,
+      "longitude" : 23.986427899999967
+    },
+    {
+      "title" : "Maillols, F.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Marchand, André (1907-1997)",
+      "latitude" : 48.2973451,
+      "longitude" : 4.0744009000000005
+    },
+    {
+      "title" : "Masson, Georges",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Phocas, Suzanne (1897-1984)",
+      "latitude" : 50.62924999999999,
+      "longitude" : 3.057256000000052
+    },
+    {
+      "title" : "Moore, Elisabeth",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Muller, G.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Orloff, Chana (1888-1968)",
+      "latitude" : 48.52394289999999,
+      "longitude" : 37.70758109999997
+    },
+    {
+      "title" : "Picabia, Francis (1879-1953)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Quinquaud, Anna (1890-1984)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Rigaud, Jean (1912-1999)",
+      "latitude" : 44.837789,
+      "longitude" : -0.5791799999999512
+    },
+    {
+      "title" : "Rodde, Michel (1913-2009)",
+      "latitude" : 44.210777,
+      "longitude" : 4.0299400000000105
+    },
+    {
+      "title" : "Rig-Rousseau",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Salès Roviralta, Francesc (1904-1976)",
+      "latitude" : 40.46366700000001,
+      "longitude" : -3.7492200000000366
+    },
+    {
+      "title" : "Semenoff, Anna (1888-1977)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Soutine, Chaïm (1894-1943)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Thévenet, Jacques (1891-1989)",
+      "latitude" : 45.837556,
+      "longitude" : 4.71234000000004
+    },
+    {
+      "title" : "Van Eck, Geurt (1901-1974)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Viard, Jean-Louis (1917-2009)",
+      "latitude" : 48.697161,
+      "longitude" : 2.1896169999999984
+    },
+    {
+      "title" : "Worms, Roger (1907-1980)",
+      "latitude" : 49.043411,
+      "longitude" : 3.9562419999999747
+    },
+    {
+      "title" : "Zarfin, Faibich Schraga (1900-1975)",
+      "latitude" : 53.7532734,
+      "longitude" : 28.013500799999974
+    },
+    {
+      "title" : "Adnet, Françoise (1924-2014)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Anthoons, Willy (1911-1982)",
+      "latitude" : 51.0258761,
+      "longitude" : 4.477536200000031
+    },
+    {
+      "title" : "Assat, J. d'",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Band, Max (1901-1974)",
+      "latitude" : 54.77499,
+      "longitude" : 22.866512000000057
+    },
+    {
+      "title" : "Baudin, Pierre (1925-2007)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Berlewi, Henryk (1894-1967)",
+      "latitude" : 52.2296756,
+      "longitude" : 21.012228700000037
+    },
+    {
+      "title" : "Bizette-Lindet, André (1906-1988)",
+      "latitude" : 47.35885200000001,
+      "longitude" : -1.9444819999999936
+    },
+    {
+      "title" : "Bombois, Camille (1883-1970)",
+      "latitude" : 47.54249199999999,
+      "longitude" : 4.4480310000000145
+    },
+    {
+      "title" : "Bouquillon, Albert (1908-1997)",
+      "latitude" : 50.367874,
+      "longitude" : 3.080601999999999
+    },
+    {
+      "title" : "Brancusi, Constantin (1876-1957)",
+      "latitude" : 45.0505963,
+      "longitude" : 23.05858539999997
+    },
+    {
+      "title" : "Brenner, Art (1924-2013)",
+      "latitude" : 40.7127837,
+      "longitude" : -74.00594130000002
+    },
+    {
+      "title" : "Bryen, Camille (1907-1977)",
+      "latitude" : 47.218371,
+      "longitude" : -1.553621000000021
+    },
+    {
+      "title" : "Camoin, Charles (1879-1965)",
+      "latitude" : 43.296482,
+      "longitude" : 5.369779999999992
+    },
+    {
+      "title" : "Céria, Edmond (1884-1955)",
+      "latitude" : 46.401488,
+      "longitude" : 6.590949000000023
+    },
+    {
+      "title" : "Chauvel, Marie-Blanche (1895-?)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Clavé, Antoni (1913-2005)",
+      "latitude" : 41.38506389999999,
+      "longitude" : 2.1734034999999494
+    },
+    {
+      "title" : "Cocteau, Jean (1889-1963)",
+      "latitude" : 48.947545,
+      "longitude" : 2.142389900000012
+    },
+    {
+      "title" : "Couturier, Marie-Alain (1897-1954)",
+      "latitude" : 45.60745,
+      "longitude" : 4.063337999999931
+    },
+    {
+      "title" : "Delaunay, F.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Desnos, Ferdinand (1901-1958)",
+      "latitude" : 47.390249,
+      "longitude" : 1.2543239999999969
+    },
+    {
+      "title" : "Dogie",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Dubaut, Maxime (1920-1991)",
+      "latitude" : 46.227638,
+      "longitude" : 2.213749000000007
+    },
+    {
+      "title" : "Dufy, Raoul (1877-1953)",
+      "latitude" : 49.49437,
+      "longitude" : 0.10792900000001282
+    },
+    {
+      "title" : "Eve, Jean (1900-1968)",
+      "latitude" : 50.359201,
+      "longitude" : 3.2811380000000554
+    },
+    {
+      "title" : "Fougeron, André (1913-1998)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gauguin, Paul (1848-1903)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gleizes, Albert (1881-1953)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gruber, Francis (1912-1948)",
+      "latitude" : 48.692054,
+      "longitude" : 6.184416999999939
+    },
+    {
+      "title" : "Herbin, Auguste (1882-1960)",
+      "latitude" : 50.165598,
+      "longitude" : 3.4274339999999484
+    },
+    {
+      "title" : "Jacobsen",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Kisling, Moïse (1891-1953)",
+      "latitude" : 50.06465009999999,
+      "longitude" : 19.94497990000002
+    },
+    {
+      "title" : "Laillard, Jeanne (1897-?)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Laurens, Henri (1885-1954)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Moorhouse Leleu, Charlotte",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lévy, Georges",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lhote, André (1885-1962)",
+      "latitude" : 44.837789,
+      "longitude" : -0.5791799999999512
+    },
+    {
+      "title" : "Maillol, Aristide (1861-1944)",
+      "latitude" : 42.48342999999999,
+      "longitude" : 3.128873999999996
+    },
+    {
+      "title" : "Curatella Manes, Pablo (1891-1962)",
+      "latitude" : -38.416097,
+      "longitude" : -63.616671999999994
+    },
+    {
+      "title" : "Masson, André (1896-1987)",
+      "latitude" : 49.29596300000001,
+      "longitude" : 2.336488000000031
+    },
+    {
+      "title" : "Meili, Conrad (1895-1969)",
+      "latitude" : 47.3768866,
+      "longitude" : 8.541694000000007
+    },
+    {
+      "title" : "Modigliani, Amedeo (1884-1920)",
+      "latitude" : 43.0239848,
+      "longitude" : 10.66471009999998
+    },
+    {
+      "title" : "Müller, Armin",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Nilsson, Gunnar (1904-1995)",
+      "latitude" : 56.16122399999999,
+      "longitude" : 15.586900000000014
+    },
+    {
+      "title" : "Perrin, Louis",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Prax, Valentine (1899-1981)",
+      "latitude" : 36.9264582,
+      "longitude" : 7.752535200000011
+    },
+    {
+      "title" : "Richter",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rivière-Jannin, Th",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rouault, Isabelle (1910-2004)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rousseau, Gabriel",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Savin, Maurice (1894-1973)",
+      "latitude" : 45.290231,
+      "longitude" : 4.993464899999935
+    },
+    {
+      "title" : "Leon Soto, Adalberto de (1919-1957)",
+      "latitude" : 15.783471,
+      "longitude" : -90.23075899999998
+    },
+    {
+      "title" : "Tanguy, Yves (1900-1955)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Valade, Pierre (1909-1971)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Verdier, Maurice (1919-2003)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Walch, Charles (1898-1948)",
+      "latitude" : 47.810702,
+      "longitude" : 7.102382000000034
+    },
+    {
+      "title" : "Zadkine, Ossip (1890-1967)",
+      "latitude" : 54.7903112,
+      "longitude" : 32.05036629999995
+    },
+    {
+      "title" : "Adams",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Altmann, Gérard (1923-2012)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Arnal, François (1924-2012)",
+      "latitude" : 43.13824,
+      "longitude" : 5.98758440000006
+    },
+    {
+      "title" : "Aujame, Jean (1905-1965)",
+      "latitude" : 45.95409,
+      "longitude" : 2.1689378999999462
+    },
+    {
+      "title" : "Basler",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Benedict",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Pierre-Bertrand (1884-1975)",
+      "latitude" : 47.7482524,
+      "longitude" : -3.3702448999999888
+    },
+    {
+      "title" : "Blanc, René (1906-1987)",
+      "latitude" : 48.847759,
+      "longitude" : 2.4394968999999946
+    },
+    {
+      "title" : "Bonnet, G.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Boussingault, Jean-Louis (1883-1943)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Brayer, Yves (1907-1990)",
+      "latitude" : 48.801408,
+      "longitude" : 2.1301220000000285
+    },
+    {
+      "title" : "Breton, Charles",
+      "latitude" : 47.39414399999999,
+      "longitude" : 0.6848400000000083
+    },
+    {
+      "title" : "Busse, Jacques (1922-2004)",
+      "latitude" : 48.847759,
+      "longitude" : 2.4394968999999946
+    },
+    {
+      "title" : "Carzou, Jean (1907-2000)",
+      "latitude" : 36.2262393,
+      "longitude" : 37.46813959999997
+    },
+    {
+      "title" : "Chapelain-Midy, Roger (1904-1992)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Chou-Ling",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Clergé, Auguste-Joseph (1891-1963)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Courmes, Alfred (1898-1993)",
+      "latitude" : 43.151682,
+      "longitude" : 6.342202000000043
+    },
+    {
+      "title" : "Dalí, Salvador (1904-1989)",
+      "latitude" : 42.26550659999999,
+      "longitude" : 2.9581046000000697
+    },
+    {
+      "title" : "Deluol, André (1909-2003)",
+      "latitude" : 44.933393,
+      "longitude" : 4.892360000000053
+    },
+    {
+      "title" : "Desvallières, Georges (1861-1950)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Drivier, Léon-Ernest (1878-1951)",
+      "latitude" : 45.188529,
+      "longitude" : 5.724523999999974
+    },
+    {
+      "title" : "Dulout, Marie (1870-?)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Ernst, Max (1891-1976)",
+      "latitude" : 50.8267554,
+      "longitude" : 6.898786500000028
+    },
+    {
+      "title" : "Filozof, Véronique (1904-1977)",
+      "latitude" : 46.818188,
+      "longitude" : 8.227511999999933
+    },
+    {
+      "title" : "Gallibert, Geneviève Marie (1888-1978)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gilou, Pierre (1938-)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gottlieb, Léopold (1883-1934)",
+      "latitude" : 49.3580116,
+      "longitude" : 23.512319299999945
+    },
+    {
+      "title" : "Hajdu, Etienne (1907-1996)",
+      "latitude" : 46.564676,
+      "longitude" : 23.797106299999996
+    },
+    {
+      "title" : "Iché, René (1887-1954)",
+      "latitude" : 43.2570369,
+      "longitude" : 2.947552999999971
+    },
+    {
+      "title" : "Kickert, Conrad (1882-1965)",
+      "latitude" : 52.0704978,
+      "longitude" : 4.3006999000000405
+    },
+    {
+      "title" : "Klein, Willy",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Latapie, Louis (1891-1972)",
+      "latitude" : 43.604652,
+      "longitude" : 1.4442090000000007
+    },
+    {
+      "title" : "Lefèvre, André (1882-1963)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Levy, Shlomo",
+      "latitude" : 43.177032,
+      "longitude" : 27.44057250000003
+    },
+    {
+      "title" : "Levy, M.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lydis, Mariette (1890-1970)",
+      "latitude" : 48.20823499999999,
+      "longitude" : 16.373813799999994
+    },
+    {
+      "title" : "Mallet-Stevens, Robert (1886-1945)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Martin, -",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Matisse, Henri (1869-1954)",
+      "latitude" : 50.103942,
+      "longitude" : 3.544234999999958
+    },
+    {
+      "title" : "Georges-Michel, Michel (1883-1985)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Mounier",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Muller",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Pastoukhoff, Boris (1894-1974)",
+      "latitude" : 61.52401,
+      "longitude" : 105.31875600000001
+    },
+    {
+      "title" : "Poliakoff, Nicolas (1899-1976)",
+      "latitude" : 48.379433,
+      "longitude" : 31.165579999999977
+    },
+    {
+      "title" : "Raynaud",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Riviere",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rodin, Auguste (1840-1917)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Rousseau, Michel",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Salvat, François (1892-1976)",
+      "latitude" : 42.47291399999999,
+      "longitude" : 2.6697189999999864
+    },
+    {
+      "title" : "Smirnoff, Boris (1895-1976)",
+      "latitude" : 61.52401,
+      "longitude" : 105.31875600000001
+    },
+    {
+      "title" : "Survage, Léopold (1879-1968)",
+      "latitude" : 55.755826,
+      "longitude" : 37.6173
+    },
+    {
+      "title" : "Toyen, Marie (1902-1980)",
+      "latitude" : 50.0755381,
+      "longitude" : 14.43780049999998
+    },
+    {
+      "title" : "Velasquez",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Villon, Jacques (1875-1963)",
+      "latitude" : 48.870057,
+      "longitude" : 1.0734170000000631
+    },
+    {
+      "title" : "Yencesse, Hubert (1900-1987)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Adam, Henri-Georges (1904-1967)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Aïzpiri, Paul (1919-2016)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Arbus, André (1903-1969)",
+      "latitude" : 43.604652,
+      "longitude" : 1.4442090000000007
+    },
+    {
+      "title" : "Auffray, Edith (1901-ap.1965)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Barruel, Paul (1901-1982)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Bédikian, Krikor (1908-1981)",
+      "latitude" : 39.9333635,
+      "longitude" : 32.85974190000002
+    },
+    {
+      "title" : "Bertram, Abel (1871-1954)",
+      "latitude" : 50.750115,
+      "longitude" : 2.252207999999996
+    },
+    {
+      "title" : "Blanc, Charles (1896-1966)",
+      "latitude" : 45.83361900000001,
+      "longitude" : 1.2611050000000432
+    },
+    {
+      "title" : "Bonnet, Anne (1908-1960)",
+      "latitude" : 50.8503396,
+      "longitude" : 4.351710300000036
+    },
+    {
+      "title" : "Bourdil, André (1911-1982)",
+      "latitude" : 43.2951,
+      "longitude" : -0.3707970000000387
+    },
+    {
+      "title" : "Braque, Georges (1882-1963)",
+      "latitude" : 48.9472096,
+      "longitude" : 2.24668470000006
+    },
+    {
+      "title" : "Bret, Paul (1902-1956)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Bury, Pol (1922-2005)",
+      "latitude" : 50.45413,
+      "longitude" : 4.199600000000032
+    },
+    {
+      "title" : "Carp, Esther (1897-1970)",
+      "latitude" : 51.9547169,
+      "longitude" : 20.15833029999999
+    },
+    {
+      "title" : "Chagall, Marc (1887-1985)",
+      "latitude" : 55.1848061,
+      "longitude" : 30.201622000000043
+    },
+    {
+      "title" : "Chillida, Eduardo (1924-2002)",
+      "latitude" : 43.318334,
+      "longitude" : -1.9812312999999904
+    },
+    {
+      "title" : "Clerc, Sylvestre (1892-1958)",
+      "latitude" : 43.604652,
+      "longitude" : 1.4442090000000007
+    },
+    {
+      "title" : "Cottavoz, André (1922-2012)",
+      "latitude" : 45.15411900000001,
+      "longitude" : 5.3199379000000135
+    },
+    {
+      "title" : "Csaky, Renée",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Delaunay, Sonia (1885-1979)",
+      "latitude" : 49.2302517,
+      "longitude" : 33.126430700000014
+    },
+    {
+      "title" : "Despierre, Jacques (1912-1995)",
+      "latitude" : 45.439695,
+      "longitude" : 4.387177899999983
+    },
+    {
+      "title" : "Doucet",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Dubreuil, Jean (1920-2008)",
+      "latitude" : 47.39414399999999,
+      "longitude" : 0.6848400000000083
+    },
+    {
+      "title" : "Enri, Hel (1873-1973)",
+      "latitude" : 51.919438,
+      "longitude" : 19.14513599999998
+    },
+    {
+      "title" : "Fautrier, Jean (1898-1964)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gaillard, Marcel (1886-1947)",
+      "latitude" : 48.2973451,
+      "longitude" : 4.0744009000000005
+    },
+    {
+      "title" : "Gilioli, Emile (1911-1977)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gorin, Jean (1899-1981)",
+      "latitude" : 47.433665,
+      "longitude" : -1.7112750000000005
+    },
+    {
+      "title" : "Guindet, A.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Hervieu, Louise (1878-1954)",
+      "latitude" : 48.432856,
+      "longitude" : 0.09126600000001872
+    },
+    {
+      "title" : "Joly, Anne-Marie (?-1978)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Klein, Georges-André (1901-1992)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Lapicque, Charles (1898-1988)",
+      "latitude" : 45.93964099999999,
+      "longitude" : 4.616224999999986
+    },
+    {
+      "title" : "Le Masle, Robert (1901-1970)",
+      "latitude" : 49.894067,
+      "longitude" : 2.2957529999999906
+    },
+    {
+      "title" : "Levé",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lévy, Jean",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lorjou, Bernard (1908-1986)",
+      "latitude" : 47.58609209999999,
+      "longitude" : 1.3359474999999748
+    },
+    {
+      "title" : "Malaval, -",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Marquet, Albert (1875-1947)",
+      "latitude" : 44.837789,
+      "longitude" : -0.5791799999999512
+    },
+    {
+      "title" : "Masson, Marcel (1911-1988)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Metzinger, Jean (1883-1956)",
+      "latitude" : 47.218371,
+      "longitude" : -1.553621000000021
+    },
+    {
+      "title" : "Moreau, Gustave (1826-1898)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Muller, Jean",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Oudot, Georges (1928-2004)",
+      "latitude" : 48.113748,
+      "longitude" : 5.1392558999999665
+    },
+    {
+      "title" : "Picasso, Pablo (1881-1973)",
+      "latitude" : 36.721261,
+      "longitude" : -4.421265500000004
+    },
+    {
+      "title" : "Rancillac",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "De Rigné, Séverin (1914-1989)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Arnould, Reynold (1919-1980)",
+      "latitude" : 49.49437,
+      "longitude" : 0.10792900000001282
+    },
+    {
+      "title" : "Rousseau, Henri (1844-1910)",
+      "latitude" : 48.0785146,
+      "longitude" : -0.7669905999999855
+    },
+    {
+      "title" : "Salmon",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Severini, Gino (1883-1966)",
+      "latitude" : 43.27506260000001,
+      "longitude" : 11.985125599999947
+    },
+    {
+      "title" : "Staël, Nicolas de (1914-1955)",
+      "latitude" : 59.9342802,
+      "longitude" : 30.335098600000038
+    },
+    {
+      "title" : "Toulouse-Lautrec, Henri de (1864-1901)",
+      "latitude" : 43.92508530000001,
+      "longitude" : 2.1486413000000084
+    },
+    {
+      "title" : "Vanek",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Wlérick, Robert (1882-1944)",
+      "latitude" : 43.89348499999999,
+      "longitude" : -0.49978199999998196
+    },
+    {
+      "title" : "Yan, Robert (1901-1994)",
+      "latitude" : 44.652297,
+      "longitude" : -1.1785016000000041
+    },
+    {
+      "title" : "Zingg, Jean-Pierre (1925-)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Agam, Yaacov (1928-)",
+      "latitude" : 31.9730015,
+      "longitude" : 34.792501300000026
+    },
+    {
+      "title" : "Appel, Karel (1921-2006)",
+      "latitude" : 52.3702157,
+      "longitude" : 4.895167899999933
+    },
+    {
+      "title" : "Asse, Geneviève (1923-)",
+      "latitude" : 47.658236,
+      "longitude" : -2.7608470000000125
+    },
+    {
+      "title" : "Baranov-Rossiné, Vladimir (1888-1944)",
+      "latitude" : 46.635417,
+      "longitude" : 32.61686699999996
+    },
+    {
+      "title" : "Beaudin, André (1895-1979)",
+      "latitude" : 48.566784,
+      "longitude" : 2.434436000000005
+    },
+    {
+      "title" : "Berque, Jean (1896-1954)",
+      "latitude" : 49.258329,
+      "longitude" : 4.031696000000011
+    },
+    {
+      "title" : "Bizette, Françoise (1914-1996)",
+      "latitude" : 48.732084,
+      "longitude" : -3.4591440000000375
+    },
+    {
+      "title" : "Bonfils, Robert (1886-1971)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Bouquillon, Robert (1923-2013)",
+      "latitude" : 50.367874,
+      "longitude" : 3.080601999999999
+    },
+    {
+      "title" : "Brandel, Konstanty (1880-1970)",
+      "latitude" : 52.2296756,
+      "longitude" : 21.012228700000037
+    },
+    {
+      "title" : "Bret, François (1918-2004)",
+      "latitude" : 47.58609209999999,
+      "longitude" : 1.3359474999999748
+    },
+    {
+      "title" : "Buccholz, Jacques (1909-)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Campigli, Massimo (1895-1971)",
+      "latitude" : 43.7695604,
+      "longitude" : 11.25581360000001
+    },
+    {
+      "title" : "Cézanne, Paul (1839-1906)",
+      "latitude" : 48.2973451,
+      "longitude" : 4.0744009000000005
+    },
+    {
+      "title" : "Chauvel, Georges (1886-1962)",
+      "latitude" : 49.29216299999999,
+      "longitude" : 1.0069100000000617
+    },
+    {
+      "title" : "Clémenceau, Georges (1841-1929)",
+      "latitude" : 46.67589299999999,
+      "longitude" : -0.8477960000000166
+    },
+    {
+      "title" : "Cointreau, Anne Florence (1890-1966)",
+      "latitude" : 55.953252,
+      "longitude" : -3.188266999999996
+    },
+    {
+      "title" : "Couturier, Robert (1905-2008)",
+      "latitude" : 45.648377,
+      "longitude" : 0.15623690000006718
+    },
+    {
+      "title" : "Delaunay, Robert (1885-1941)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Desnoyer, François (1894-1972)",
+      "latitude" : 44.02212519999999,
+      "longitude" : 1.3529598999999735
+    },
+    {
+      "title" : "Domergue, Jean-Gabriel (1889-1962)",
+      "latitude" : 44.837789,
+      "longitude" : -0.5791799999999512
+    },
+    {
+      "title" : "Dubaut, Pierre-Olivier (1886-1968)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Dunoyer de Segonzac, André (1884-1974)",
+      "latitude" : 48.6892489,
+      "longitude" : 2.530173999999988
+    },
+    {
+      "title" : "Even, André (1918-1997)",
+      "latitude" : 47.85637200000001,
+      "longitude" : -3.7446410000000014
+    },
+    {
+      "title" : "Foujita, Léonard (1886-1968)",
+      "latitude" : 35.6894875,
+      "longitude" : 139.69170639999993
+    },
+    {
+      "title" : "Gaumont, Marcel (1880-1962)",
+      "latitude" : 47.39414399999999,
+      "longitude" : 0.6848400000000083
+    },
+    {
+      "title" : "Goldfarb, Shirley (1925-1980)",
+      "latitude" : 40.5186809,
+      "longitude" : -78.3947359
+    },
+    {
+      "title" : "Grunwald, Henryk (1904-1958)",
+      "latitude" : 52.2296756,
+      "longitude" : 21.012228700000037
+    },
+    {
+      "title" : "Hernández, Miguel (1893-1957)",
+      "latitude" : 40.656685,
+      "longitude" : -4.681208599999991
+    },
+    {
+      "title" : "Jacobsen, Robert (1912-1993)",
+      "latitude" : 55.6760968,
+      "longitude" : 12.568337100000008
+    },
+    {
+      "title" : "Klen, B.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lam, Wifredo (1902-1982)",
+      "latitude" : 22.8037709,
+      "longitude" : -80.07025550000003
+    },
+    {
+      "title" : "Lavrillier, André (1885-1958)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Lempicka, Tamara de (1898-1980)",
+      "latitude" : 52.2296756,
+      "longitude" : 21.012228700000037
+    },
+    {
+      "title" : "Levy, Isadore (1899-1989)",
+      "latitude" : 41.408969,
+      "longitude" : -75.6624122
+    },
+    {
+      "title" : "Liausu, Camille (1894-1975)",
+      "latitude" : 43.4831519,
+      "longitude" : -1.5586260000000038
+    },
+    {
+      "title" : "Maillol, Lucien (1896-1972)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Manessier, Alfred (1911-1993)",
+      "latitude" : 50.036949,
+      "longitude" : 2.1216140000000223
+    },
+    {
+      "title" : "Masson, Léon (1911-1984)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Merkel, Georges (1881-1976)",
+      "latitude" : 49.83968300000001,
+      "longitude" : 24.029717000000005
+    },
+    {
+      "title" : "Mondzain, Simon (1890-1979)",
+      "latitude" : 51.1431232,
+      "longitude" : 23.47119859999998
+    },
+    {
+      "title" : "Muller, Ed",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Oudot, Roland (1897-1981)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Pevsner, Antoine (1884-1962)",
+      "latitude" : 52.16343450000001,
+      "longitude" : 23.87155269999994
+    },
+    {
+      "title" : "Privat, Gilbert (1892-1969)",
+      "latitude" : 43.604652,
+      "longitude" : 1.4442090000000007
+    },
+    {
+      "title" : "Rigaud, G.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rivière, Joseph (1912-1961)",
+      "latitude" : 47.39414399999999,
+      "longitude" : 0.6848400000000083
+    },
+    {
+      "title" : "Rouilly",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Saint Olive, Michel (1917-1993)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Savreux, Maurice (1884-1971)",
+      "latitude" : 50.62924999999999,
+      "longitude" : 3.057256000000052
+    },
+    {
+      "title" : "Soulages, Pierre (1919-)",
+      "latitude" : 44.34938899999999,
+      "longitude" : 2.575986000000057
+    },
+    {
+      "title" : "Terechkovitch, Constantin (Kostia) (1902-1978)",
+      "latitude" : 55.755826,
+      "longitude" : 37.6173
+    },
+    {
+      "title" : "Dongen, Kees van (1877-1968)",
+      "latitude" : 51.9048893,
+      "longitude" : 4.453956699999935
+    },
+    {
+      "title" : "Vertès, Marcel (1895-1961)",
+      "latitude" : 47.497912,
+      "longitude" : 19.04023499999994
+    },
+    {
+      "title" : "Waroquier, Henry de (1881-1970)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Zao, Wou-Ki (1921-2013)",
+      "latitude" : 39.904211,
+      "longitude" : 116.40739499999995
+    },
+    {
+      "title" : "Adam, Jean",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Alix, Yves (1890-1969)",
+      "latitude" : 48.40467599999999,
+      "longitude" : 2.701620000000048
+    },
+    {
+      "title" : "Arditi, Georges (1914-2012)",
+      "latitude" : 43.296482,
+      "longitude" : 5.369779999999992
+    },
+    {
+      "title" : "Auffray, Marie-Thérèse (1912-1990)",
+      "latitude" : 48.6480279,
+      "longitude" : -2.828940999999986
+    },
+    {
+      "title" : "Basler, Marcel Philippe (1917-?)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Belmondo, Paul (1898-1982)",
+      "latitude" : 36.7550231,
+      "longitude" : 3.0538639000000103
+    },
+    {
+      "title" : "Arthur-Bertrand, Huguette (1922-2005)",
+      "latitude" : 49.018834,
+      "longitude" : 2.3789259999999786
+    },
+    {
+      "title" : "Blanc, Pierre (1902-1986)",
+      "latitude" : 46.5196535,
+      "longitude" : 6.632273400000031
+    },
+    {
+      "title" : "Bonnet, Augustin",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Bousquet",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Brauner, Victor (1903-1966)",
+      "latitude" : 46.92996159999999,
+      "longitude" : 26.377979299999993
+    },
+    {
+      "title" : "Breton, André (1896-1966)",
+      "latitude" : 48.762926,
+      "longitude" : -0.7324889000000212
+    },
+    {
+      "title" : "Busato, Gualtiro (1941-)",
+      "latitude" : 41.90278349999999,
+      "longitude" : 12.496365500000024
+    },
+    {
+      "title" : "Cartier-Bresson, Louis Jules (1882-1915)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Chaillon, Paulus",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "De Chirico, Giorgio (1888-1978)",
+      "latitude" : 39.3621896,
+      "longitude" : 22.942158999999947
+    },
+    {
+      "title" : "Cotelle-Clère, Marie-Josèphe",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Courbet, Gustave (1819-1877)",
+      "latitude" : 47.106041,
+      "longitude" : 6.147005000000036
+    },
+    {
+      "title" : "Cxénakis",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Delplanque, Georges (1903-1999)",
+      "latitude" : 50.367874,
+      "longitude" : 3.080601999999999
+    },
+    {
+      "title" : "Desruelles, Félix (1865-1943)",
+      "latitude" : 50.357113,
+      "longitude" : 3.5183319999999867
+    },
+    {
+      "title" : "Drivier, Juliette",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Dubreuil, Pierre (1891-1970)",
+      "latitude" : 47.997542,
+      "longitude" : -4.097898999999984
+    },
+    {
+      "title" : "Ensor, James (1860-1949)",
+      "latitude" : 51.21543,
+      "longitude" : 2.9286560000000463
+    },
+    {
+      "title" : "Ferro, Gabriel (1903-1981)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gaillardot, Pierre (1910-2002)",
+      "latitude" : 48.000552,
+      "longitude" : 3.7295119999999997
+    },
+    {
+      "title" : "Gilot, Françoise (1921-)",
+      "latitude" : 48.884831,
+      "longitude" : 2.268509999999992
+    },
+    {
+      "title" : "Gotlib, Henryk (1890-1966)",
+      "latitude" : 50.06465009999999,
+      "longitude" : 19.94497990000002
+    },
+    {
+      "title" : "Hains, Raymond (1926-2005)",
+      "latitude" : 48.51418,
+      "longitude" : -2.7658350000000382
+    },
+    {
+      "title" : "Humblot, Robert (1907-1962)",
+      "latitude" : 48.851542,
+      "longitude" : 2.4759070000000065
+    },
+    {
+      "title" : "Jouclard, Adrienne (1882-1972)",
+      "latitude" : 49.01824300000001,
+      "longitude" : 5.965891000000056
+    },
+    {
+      "title" : "Klein, Paul Georges (1909-1994)",
+      "latitude" : 49.51991899999999,
+      "longitude" : 5.761772999999948
+    },
+    {
+      "title" : "Lartigue, Guy (1927-?)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Le Moal, Jean (1909-2007)",
+      "latitude" : 48.19398899999999,
+      "longitude" : 0.8960509999999431
+    },
+    {
+      "title" : "Levée, John (1924-)",
+      "latitude" : 34.0522342,
+      "longitude" : -118.2436849
+    },
+    {
+      "title" : "Levy",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Luka, Madeleine (1894-1989)",
+      "latitude" : 49.07736300000001,
+      "longitude" : 2.3069339999999556
+    },
+    {
+      "title" : "Malespine, Emile (1892-1952)",
+      "latitude" : 48.692054,
+      "longitude" : 6.184416999999939
+    },
+    {
+      "title" : "Marre, Hélène (1891-1968)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Masson, Paul",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Michaux, Henri (1899-1984)",
+      "latitude" : 50.4673883,
+      "longitude" : 4.871985399999971
+    },
+    {
+      "title" : "Morris",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Muller, Louis (1902-1957)",
+      "latitude" : 45.699594,
+      "longitude" : 4.884464900000012
+    },
+    {
+      "title" : "Pascin, Jules (1885-1930)",
+      "latitude" : 43.996159,
+      "longitude" : 22.867930200000046
+    },
+    {
+      "title" : "Piget, Pierre (1907-1990)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Ralli",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rivaud",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rodde, Colette",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rousseau",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Salomon",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Shart",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lilly-Steiner (1884-1961)",
+      "latitude" : 48.20823499999999,
+      "longitude" : 16.373813799999994
+    },
+    {
+      "title" : "Tourte, Suzanne (1904-1979)",
+      "latitude" : 49.2232569,
+      "longitude" : 4.055567999999994
+    },
+    {
+      "title" : "Vassilieff, Marie (1884-1957)",
+      "latitude" : 54.7903112,
+      "longitude" : 32.05036629999995
+    },
+    {
+      "title" : "Villeglé, Jacques (1926-)",
+      "latitude" : 47.997542,
+      "longitude" : -4.097898999999984
+    },
+    {
+      "title" : "Yankel, Jacques (1920-)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Adnet, Jacques (1900-1984)",
+      "latitude" : 47.824021,
+      "longitude" : 2.8452159999999367
+    },
+    {
+      "title" : "Andréou, Constantin (1917-2007)",
+      "latitude" : -23.5431786,
+      "longitude" : -46.62918450000001
+    },
+    {
+      "title" : "Artus, Charles (1897-1978)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Balthus (1908-2001)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Bauchant, André (1873-1958)",
+      "latitude" : 47.5919079,
+      "longitude" : 0.90921000000003
+    },
+    {
+      "title" : "Berlewy",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Bezombes, Roger (1913-1994)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Blot, Léon (1905-1967)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Bouche, Georges (1874-1941)",
+      "latitude" : 45.764043,
+      "longitude" : 4.835658999999964
+    },
+    {
+      "title" : "Braig, Paul (1906-1972)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Brener, Léo",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Brianchon, Maurice (1899-1979)",
+      "latitude" : 48.28223200000001,
+      "longitude" : 0.01943400000004658
+    },
+    {
+      "title" : "Calder, Alexander (1870-1945)",
+      "latitude" : 41.78590859999999,
+      "longitude" : -76.07075910000003
+    },
+    {
+      "title" : "Cavaillon, Elisée (1873-1954)",
+      "latitude" : 43.836699,
+      "longitude" : 4.360053999999991
+    },
+    {
+      "title" : "Chasseigneaux, Colette",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Garouste de Clauzade, Philippe (1922-?)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Cluseau-Lanauve, Jean (1914-1997)",
+      "latitude" : 45.184029,
+      "longitude" : 0.721114899999975
+    },
+    {
+      "title" : "Coutin, Robert (1891-1965)",
+      "latitude" : 49.258329,
+      "longitude" : 4.031696000000011
+    },
+    {
+      "title" : "Declerck, H.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Desforèts",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Dmitrienko, Pierre (1925-1974)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Dubaut, Jane (1885-1970)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Dufresne, Charles (1876-1938)",
+      "latitude" : 48.809105,
+      "longitude" : 1.7454800000000432
+    },
+    {
+      "title" : "Estève, Maurice (1904-2001)",
+      "latitude" : 46.54684399999999,
+      "longitude" : 2.3501639999999497
+    },
+    {
+      "title" : "Fougerat, Denise (?-?)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Garrouste, Henri (1890-1982)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Girieud, Pierre (1876-1948)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Gromaire, Marcel (1892-1971)",
+      "latitude" : 50.159395,
+      "longitude" : 3.797629000000029
+    },
+    {
+      "title" : "Hélion, Jean (1904-1987)",
+      "latitude" : 48.512681,
+      "longitude" : -0.41487499999993815
+    },
+    {
+      "title" : "Jacob, Max (1876-1944)",
+      "latitude" : 47.997542,
+      "longitude" : -4.097898999999984
+    },
+    {
+      "title" : "Kikoïne, Michel (1892-1968)",
+      "latitude" : 52.4312653,
+      "longitude" : 30.993797299999983
+    },
+    {
+      "title" : "Kretz, Léopold (1907-1990)",
+      "latitude" : 51.919438,
+      "longitude" : 19.14513599999998
+    },
+    {
+      "title" : "Laurencin, Marie (1883-1956)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Legueult, Raymond (1898-1971)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Levy, Claude (1895-?)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Lévy, Simon (1886-1973)",
+      "latitude" : 48.57340529999999,
+      "longitude" : 7.752111300000024
+    },
+    {
+      "title" : "Madrazo, Tito Livio de (1899-1970)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Mané-Katz, Emmanuel (1894-1962)",
+      "latitude" : 48.379433,
+      "longitude" : 31.165579999999977
+    },
+    {
+      "title" : "Martin, Robert",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Max Loeb, Gaston",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Miró, Joan (1893-1983)",
+      "latitude" : 41.38506389999999,
+      "longitude" : 2.1734034999999494
+    },
+    {
+      "title" : "Mucha, Willy (1905-1995)",
+      "latitude" : 52.2296756,
+      "longitude" : 21.012228700000037
+    },
+    {
+      "title" : "Nemours, Aurelie (1910-2005)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Perret, Rodolphe (1935-)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Pomey, B.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Richier, Germaine (1904-1959)",
+      "latitude" : 43.60707300000001,
+      "longitude" : 5.063776999999959
+    },
+    {
+      "title" : "Rivière Clery",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Rouault, Georges (1871-1958)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Rousseau, G.",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Saupique, Georges (1889-1961)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Soteras, Jorge (1917-1990)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Tappenbeck, Ernst",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Utter, André (1886-1948)",
+      "latitude" : 48.85661400000001,
+      "longitude" : 2.3522219000000177
+    },
+    {
+      "title" : "Vénard, Salomé (1904-1987)",
+      "latitude" : null,
+      "longitude" : null
+    },
+    {
+      "title" : "Vuillard, Edouard (1868-1940)",
+      "latitude" : 46.4940939,
+      "longitude" : 5.389004999999997
+    },
+    {
+      "title" : "Zack, Léon (1892-1980)",
+      "latitude" : 61.52401,
+      "longitude" : 105.31875600000001
+    }
+  ]
+}
